@@ -1,0 +1,56 @@
+#main-container{
+    margin: 100px;
+    width: 600px;
+}
+
+table{
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+
+td{
+    border: solid 1px white;
+    padding: 10px;
+}
+
+
+
+.separador2{
+    height: 30px;
+    width: none;
+}
+
+h1{
+    color: white;
+    text-shadow:purple 1px 1px 1px;
+    
+}
+
+h3{
+    color: white;
+    text-shadow:purple 1px 1px 1px;
+    text-align: left;
+    
+}
+
+a, h2{
+    color: white;
+    text-shadow:purple 1px 1px 1px;
+    text-align: center;
+    padding: 0;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 0;
+}
+
+h2:hover{
+    color: red;
+}
+
+td{
+    color: white;
+    text-shadow:purple 1px 1px 1px;
+    
+}

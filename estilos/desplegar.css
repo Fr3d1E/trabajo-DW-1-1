@@ -1,0 +1,54 @@
+.form-register{
+    background: blueviolet;
+}
+
+
+.user .controls{
+    margin: 5%;
+    height: 30px;
+}
+
+.menu .form-register{
+    display: none;
+    position: absolute;    
+    min-width: 140px;
+}
+
+.menu .user:hover > section{
+    display: block;
+}
+
+.user .fa-solid{
+    right: 20%;
+}
+
+.user .form-register .primera{
+    display: inline-block;
+    height: 5px;
+}
+
+.user .form-register .primera .botons{
+    margin: none;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    padding: 12px;
+    border: none;
+}
+
+.user .form-register .primera .botons:hover{
+   background: orangered;
+}
+
+.user .form-register .segunda{
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+}
+
+.user .form-register .segunda:hover{
+    color: orangered;
+}
+
+
+ 
